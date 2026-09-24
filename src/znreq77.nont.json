@@ -1,0 +1,10 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZNREQ77",
+    "originalLanguage": "en"
+  },
+  "name": "ZNREQ77",
+  "sapObjectType": "ZNREQ77",
+  "rootNode": true
+}

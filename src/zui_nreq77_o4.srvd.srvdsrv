@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_NREQ77'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_NREQ77'
+  }
+}
+define service ZUI_NREQ77_O4 provider contracts odata_v4_ui {
+  expose ZC_NREQ77;
+}
